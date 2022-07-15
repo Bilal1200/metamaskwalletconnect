@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@gamestopnft/detect-gamestop-provider": "^1.0.0",
+    "@walletconnect/web3-provider": "^1.7.8",
     "next": "12.2.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "web3": "^1.7.4",
+    "web3-core": "^1.7.4",
+    "web3modal": "^1.9.8"
   },
   "devDependencies": {
     "eslint": "8.19.0",
